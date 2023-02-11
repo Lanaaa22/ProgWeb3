@@ -1,0 +1,27 @@
+H1 {
+    text-align: center ;
+    font-family: 'minha-fonte', Helvetica; 
+    
+}
+
+form {
+    font-family: 'minha-fonte', Helvetica; 
+    width: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+    
+}
+
+input {
+    border: 0px;
+    font-size: 16px;
+    margin: 0px;
+    padding: 15px;
+    outline: 0px;
+    height: auto;
+    box-shadow: 0px 1px 0px;
+    width: 100%;
+}
