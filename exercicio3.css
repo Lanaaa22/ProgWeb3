@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+
+body {
+    background-image: linear-gradient(to left,#F4FFF9, #D5F4E5);
+  
+    max-width: auto;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+
+}
+
+header {
+    min-height: 50px;
+}
+
+footer {
+    margin-top: auto;
+    min-height: 50px;
+    padding-left: 650px;
+    padding-top: 13px;
+    color:#191C03;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+ul, il {
+    list-style: none;
+    font-size: 1.2rem;
+}
+
+nav {
+    background-color: #D5F4E5 ;
+    padding: 10px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu2 {
+    background-color: #D5F4E5 ;
+    padding: 1px 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top:75px;
+    
+}
+
+.img {
+    margin: 0px 0px 1px -50px;
+
+}
+
+.menu {
+    text-decoration: none;
+    display: flex;
+}
+
+.menu li {
+    margin-left: 20px;
+    
+}
+
+.menu a {
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: #191C03;
+    font-size: 17px;
+}
+
+section {
+
+    display: flex;
+	flex-wrap: wrap;
+	max-width: 800px;/*tamanho máximo da seção*/
+	 
+	margin: 0 auto; /*centraliza na margem automaticamente*/
+    justify-content: space-around;
+
+}
+
+h1{
+	font-family:  'Parisienne', cursive;
+	text-align: center;
+	margin-top: 100px;
+    font-size: 50px;
+}
