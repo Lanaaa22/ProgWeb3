@@ -1,0 +1,11 @@
+#aluno, #professor {    background: #0baadb;
+	color: white;
+	border-style: solid;
+	border-color: #0066A2;
+	height: 50px;
+	width: 200px;
+	font: bold15px arial,sans-serif;
+    border-radius: 10px;
+
+
+}
